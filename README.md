@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/username/repo.svg)
 ![Repository Size](https://img.shields.io/github/repo-size/username/repo.svg)
-![R](https://img.shields.io/badge/Language-R-blue)
+![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Bioinformatics](https://img.shields.io/badge/Topic-Bioinformatics-lightgrey)
 
 ## Table of Contents
@@ -30,7 +30,7 @@
 This repository serves as the official companion for the Master's dissertation **COMPUTATIONAL METAGENOMICS ANALYSIS OF ONE HEALTH-ORIENTED ANTIMICROBIAL RESISTANCE DYNAMICS OF WASTEWATER ACROSS FIVE MAJOR CITIES**. It provides processed datasets, publication-quality figures, metadata, and a transparent bioinformatics workflow. The emphasis of this repository is placed on scientific reproducibility, computational transparency, and long-term maintainability.
 
 ## Graphical Abstract
-*(Graphical abstract to be created separately and placed in `workflow/graphical_abstract.png`)*
+![Graphical Abstract](workflow/graphical_abstract.png)
 
 ## Background & One Health Framework
 Antimicrobial Resistance (AMR) is a rapidly escalating global health crisis. The **One Health framework** emphasizes the interconnectedness of human, animal, and environmental health. Wastewater treatment plants act as massive environmental reservoirs where genetic material from all three domains converges. Thus, wastewater-based epidemiology offers a uniquely powerful, non-invasive, population-level lens to monitor the environmental dissemination of AMR genes.
@@ -57,7 +57,7 @@ Antimicrobial Resistance (AMR) is a rapidly escalating global health crisis. The
 | **Samples** | Twenty-nine |
 | **Primary Database** | CARD |
 | **Primary Tool** | DIAMOND |
-| **Programming Language** | R |
+| **Programming Language** | Python (Jupyter) |
 | **Study Type** | Comparative Metagenomic Analysis |
 | **Focus** | Antimicrobial Resistance |
 | **Framework** | One Health |
@@ -163,10 +163,10 @@ The project analyzed 29 publicly available shotgun metagenomic datasets sourced 
 
 ## Reproducibility
 This repository is structured to ensure full computational reproducibility:
-- **Software Requirements:** Refer to `scripts/software_versions.md` for the specific tools and R libraries required.
-- **Folder Dependencies:** Ensure the `data/` and `figures/` paths are correctly mapped relative to the R scripts.
+- **Software Requirements:** Refer to `scripts/software_versions.md` for the specific tools and Python libraries required.
+- **Folder Dependencies:** Ensure the `data/` and `figures/` paths are correctly mapped relative to the Jupyter Notebooks.
 - **Expected Inputs:** Analysis relies on the normalized `arg_final_clean.tsv` matrix.
-- **Expected Outputs:** R scripts reproduce the publication-quality PDFs and PNGs found in `figures/`.
+- **Expected Outputs:** Python/Jupyter analytical notebooks reproduce the publication-quality PDFs and PNGs found in `figures/`.
 - **Assumptions:** Host-filtering and CARD annotations are assumed correct based on the explicitly declared bioinformatics pipeline parameters.
 
 ## Software Versions
