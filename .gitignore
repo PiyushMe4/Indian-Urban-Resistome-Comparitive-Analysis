@@ -1,0 +1,24 @@
+﻿# Virtual environments
+.venv/
+env/
+venv/
+
+# AI Agents
+.agent/
+.gemini/
+
+# IDEs
+.vscode/
+.idea/
+
+# Research Papers (kept local)
+Research Papers/
+
+# Temporary and cache files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Ruserdata

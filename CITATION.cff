@@ -1,0 +1,22 @@
+﻿cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Meshram
+    given-names: Piyush
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "COMPUTATIONAL METAGENOMICS ANALYSIS OF ONE HEALTH-ORIENTED ANTIMICROBIAL RESISTANCE DYNAMICS OF WASTEWATER ACROSS FIVE MAJOR CITIES"
+version: 1.0.0
+date-released: 2026-06-27
+url: "https://github.com/placeholder/amr-wastewater-thesis"
+repository-code: "https://github.com/placeholder/amr-wastewater-thesis"
+license: "MIT"
+abstract: "This repository provides the processed datasets, bioinformatics pipeline, and publication-quality figures for the comparative metagenomic analysis of antimicrobial resistance genes across Indian wastewater ecosystems using DIAMOND-based resistome profiling within a One Health framework."
+keywords:
+  - bioinformatics
+  - computational-biology
+  - metagenomics
+  - antimicrobial-resistance
+  - amr
+  - one-health
+  - wastewater
+  - environmental-genomics
