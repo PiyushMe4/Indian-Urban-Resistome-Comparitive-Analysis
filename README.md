@@ -1,8 +1,6 @@
-# COMPUTATIONAL METAGENOMICS ANALYSIS OF ONE HEALTH-ORIENTED ANTIMICROBIAL RESISTANCE DYNAMICS OF WASTEWATER ACROSS FIVE MAJOR CITIES
+# Computational Metagenomics Analysis of One-Health Oriented Antimicrobial Resistance Dynamics of Wastewater across 5 major Cities
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/https://github.com/PiyushMe4/repo.svg)
-![Repository Size](https://img.shields.io/github/repo-size/https://github.com/PiyushMe4/repo.svg)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Bioinformatics](https://img.shields.io/badge/Topic-Bioinformatics-lightgrey)
 
@@ -27,7 +25,7 @@
 ---
 
 ## Project Overview
-This repository serves as the official companion for the Master's dissertation **COMPUTATIONAL METAGENOMICS ANALYSIS OF ONE HEALTH-ORIENTED ANTIMICROBIAL RESISTANCE DYNAMICS OF WASTEWATER ACROSS FIVE MAJOR CITIES**. It provides processed datasets, publication-quality figures, metadata, and a transparent bioinformatics workflow. The emphasis of this repository is placed on scientific reproducibility, computational transparency, and long-term maintainability.
+This repository serves as the official companion for the Master's dissertation **Computational Metagenomics Analysis of One-Health Oriented Antimicrobial Resistance Dynamics of Wastewater across 5 major Cities**. It provides processed datasets, publication-quality figures, metadata, and a transparent bioinformatics workflow. The emphasis of this repository is placed on scientific reproducibility, computational transparency, and long-term maintainability.
 
 ## Graphical Abstract
 ![Graphical Abstract](workflow/graphical_abstract.png)
