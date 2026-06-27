@@ -1,8 +1,8 @@
 # COMPUTATIONAL METAGENOMICS ANALYSIS OF ONE HEALTH-ORIENTED ANTIMICROBIAL RESISTANCE DYNAMICS OF WASTEWATER ACROSS FIVE MAJOR CITIES
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/username/repo.svg)
-![Repository Size](https://img.shields.io/github/repo-size/username/repo.svg)
+![Last Commit](https://img.shields.io/github/last-commit/PiyushMe4/repo.svg)
+![Repository Size](https://img.shields.io/github/repo-size/PiyushMe4/repo.svg)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Bioinformatics](https://img.shields.io/badge/Topic-Bioinformatics-lightgrey)
 
